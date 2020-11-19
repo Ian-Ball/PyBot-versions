@@ -8,5 +8,5 @@ none yet. not released.
 
 Completely free. Forever.
 
-PyBot is free software. You may make any modifications to it as long as you credit me as maker of the base software.
+PyBot is user-made software. You may make any modifications to it as long as you credit me as maker of the base software (if it is going online).
 
